@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Go, three.js, Vue, Data Structure**
 
-- 👨‍💻 All of my projects are available at [academics.fangfranksun.com/project](academics.fangfranksun.com/project)
+- 👨‍💻 All of my projects are available at [academics.fangfranksun.com/project](https://academics.fangfranksun.com/projects)
 
-- 📝 I regularly write articles on [academics.fangfranksun.com/blog](academics.fangfranksun.com/blog)
+- 📝 I regularly write articles on [academics.fangfranksun.com/blog](https://academics.fangfranksun.com/blog)
 
 - 💬 Ask me about **Java, C++, Python, JavaScript**
 
 - 📫 How to reach me **shfranksun@outlook.com**
 
-- 📄 Know about my experiences [academics.fangfranksun.com/about](academics.fangfranksun.com/about)
+- 📄 Know about my experiences [academics.fangfranksun.com/about](https://academics.fangfranksun.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

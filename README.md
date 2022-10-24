@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frank Sun</h1>
+# Hi! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" style="max-width:100%;"></a> I'm <a href="https://tatianabarbone.github.io" rel="nofollow">Frank</a>
 <h3 align="center">A 4th Year Student Double Major in CS and ARCHITECTURE</h3>
 
 

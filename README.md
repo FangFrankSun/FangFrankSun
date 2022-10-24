@@ -49,3 +49,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fangfranksun&" alt="fangfranksun" /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=fangfranksun&show_icons=true alt=fangfranksun /> </p>
+

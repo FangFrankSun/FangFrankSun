@@ -1,5 +1,5 @@
 # Hi! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" style="max-width:100%;"></a> I'm <a href="https://academics.fangfranksun.com" rel="nofollow">Frank Sun</a>
-<h3 align="center">A 4th Year Student Double Major in CS and ARCHITECTURE</h3>
+<h3 align="left">A 4th Year Student Double Major in CS and ARCHITECTURE</h3>
 
 
 - 🌱 I’m currently learning **Go, three.js, Vue, Data Structure**

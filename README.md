@@ -1,10 +1,7 @@
 # Hi! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" style="max-width:100%;"></a> I'm <a href="https://academics.fangfranksun.com" rel="nofollow">Frank Sun</a>
-<h3 align="left">A 4th Year Student Double Major in CS and ARCHITECTURE</h3><p align="left"> <img src=https://komarev.com/ghpvc/?username=fangfranksun alt=fangfranksun/> </p>
+<h3 align="left">A Student interested in both CS and ARCHITECTURE</h3><p align="left"> <img src=https://komarev.com/ghpvc/?username=fangfranksun alt=fangfranksun/> </p>
 
 
-
-
-- 🌱 I’m currently learning **Go, three.js, Vue, Data Structure**
 
 - 👨‍💻 All of my projects are available at [academics.fangfranksun.com/project](https://academics.fangfranksun.com/projects)
 
